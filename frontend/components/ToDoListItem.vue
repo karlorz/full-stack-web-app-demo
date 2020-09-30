@@ -53,6 +53,7 @@ export default {
     display: inline-block;
     height: 50px;
     line-height: 50px;
+    float: right;
     span {
       line-height: 50px;
       height: 50px;

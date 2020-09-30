@@ -64,7 +64,8 @@ export default {
 
     button {
       height: 45px;
-      width: 145px;
+      float: right;
+      background: none;
       border: none;
       cursor: pointer;
       text-align: right;
