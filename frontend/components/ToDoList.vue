@@ -66,6 +66,8 @@ export default {
       height: 45px;
       float: right;
       background: none;
+      width: auto;
+      margin: 0;
       border: none;
       cursor: pointer;
       text-align: right;
