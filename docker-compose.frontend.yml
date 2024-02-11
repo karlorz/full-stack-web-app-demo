@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  playground-web:
+    container_name: playground-web
+    build:
+      context: frontend
+      dockerfile: frontend.dockerfile
+    restart: always
+    ports:
+      - 3000:3000
